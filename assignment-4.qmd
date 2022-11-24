@@ -9,7 +9,7 @@ csl: apa.csl
 Jeg har valgt å sammenligne studier som undersøker effekten av detrening på utholdenhetsvariabler. Når vi slutter å stimulere kroppen med trening, får vi etter hvert en reduksjon i de oppnådde treningsadaptasjonene [@tonnessen_trening_2018]. 
 
 
-# Sammenligning av studier
+# Metedoligisk sammenligning av studier
 
 
 # referanser
