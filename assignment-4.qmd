@@ -5,11 +5,18 @@ bibliography: referanser.bib
 csl: apa.csl
 ---
 
-# Introduskjon til tema
-Jeg har valgt å sammenligne studier som undersøker effekten av detrening på utholdenhetsvariabler. Når vi slutter å stimulere kroppen med trening, får vi etter hvert en reduksjon i de oppnådde treningsadaptasjonene [@tonnessen_trening_2018]. 
+## Introduskjon til tema
+Jeg har valgt å sammenligne studier som undersøker effekten av detrening på utholdenhetsvariabler. Utholdenhetstrening fører til adaptasjoner som forbedrer kroppens evne til å transportere oksygen til arbeidene muskelceller og forbruke oksygen til ATP-syntese i arbeidene muskelceller [@tonnessen_trening_2018]. Når vi slutter å stimulere kroppen med trening, får vi etter hvert en reduksjon i de oppnådde treningsadaptasjonene [@tonnessen_trening_2018]. Kunnskap om fysiologiske og molekylære mekanismer i sammenheng med detrening er dermed av interesse. I tillegg vil kartlegging av hastighet og omfang av reduksjon i fysiologisk funksjon som følge av detrening belyse viktigheten av vedlikeholdstrening i et prestasjons- og helseperspektiv. Reduksjoner i VO~2maks~ etter 2-3 uker med detrening hos utholdenhetstrente personer [@houston_interrelationships_1979; @coyle_time_1984; @coyle_effects_1986; @chen_two_2022]. Den akutte reduksjonen i VO~2maks~  ser ut til å skyldes en reduksjon i hjertets slagvolum (SV) på grunn av redusert blodvolum (BV) [@coyle_effects_1986]. Utholdenhetsvariabler i trente muskelceller ser også ut til å få en rask akutt reduksjon som følge av detrening. Etter 1-2 uker med detrening er det observert en redusert mengde aerobe enzymer [@houston_interrelationships_1979] og over 1-2 år er det observert endringer i fibertypesammensetning [@larsson_effects_1985].
 
 
-# Metedoligisk sammenligning av studier
+## Metedoligisk sammenligning av studier
+Av artikklene jeg trekker frem er @larsson_effects_1985 den eneste observasjonsstudien. Den har blitt gjennomført som en prospektiv kohorte-studie [@browner_designing_2023] som følger satsningen til 11 svenske elite-roere i en fire års periode mot OL i 1980. Målet med studien var å studere effekten av mange år med systematisk trening og detrening på histokjemiske og funksjonelle egenskaper i skelettmuskulatur. De fire gjenværende studiene er alle intervensjonsstudier med kortere varighet [@browner_designing_2023]. @houston_interrelationships_1979 undersøkte effekten av 15 dager med detrening og 15 dager med retrening på VO~2maks~, løpsprestasjon og mengde aerobe enzymer for 6 godt trente løpere. @chen_two_2022 undersøkte effekten av 2 uker med detrening på VO~2maks~, muskelstyrke og muskulær utholdenhet i 15 utholdenhetstrente utøvere, i tillegg til effekten av muskelstyrke på kardiovaskulær funksjon under detrening. @coyle_time_1984 hadde en litt annen vinkling, de hadde som mål å få info om hvor raskt og fullstendig adaptasjoenne til 7 utholdenhetstrente personer forsvinner ved detrening. De observerte dermed effekten av detrening på utholdenhetsvariabler i inntil 84 dager med detrening. @coyle_effects_1986 undersøker om nedgangen i SV som følge av 2-4 uker med detrening i 8 utholdenhetstrente utøvere er assosiert med redusert BV, og om kardiovaskulær funksjon kan gjenskapes med klinisk ekspansasjon av BV til utgangsnivået. Alle de respektive studiene har undersøkt effekten av detrening på allerede utholdenhetstrente utøvere som er en fordel iht oppdagelse av reduksjon i adaptasjoner. Alle studiene oppgir dermed også antall treningsår før detreningsperioden og treningsstatus, f.eks. VO~2maks~ ved pretest. 
+
+Av deltakerene i @larsson_effects_1985 økte syv stykker det fysiske treningsnivået gjennom perioden, mens fire sluttet med aktiv roing 1-2 år før OL. Treningsdata ble samlet inn via intervjue av deltakerne. @larsson_effects_1985 undersøkte dermed effekten av detrening på utvikling av utholdenhetsvariabler i starten-, underveis og etter perioden ved å sammenligne deltakerne som trente roing gjennom hele perioden med deltakerne som sluttet med roing i løpet av perioden. En svakhet er at deltakerne som betraktes som detreningsgruppen ikke var fullstendig treningsfri, de fortsatte med lette jogge- og roøkter i tillegg til normale hverdagslige aktiviteter. Biopsier ble tatt fra vastus lateralis og den dorsale delen av deltoid muskelen 2-3 ganger i løpet av fire års perioden og VO~2maks~ og styrke ble målt to ganger årlig. 
 
 
-# referanser
+
+## Konklusjon
+
+
+## referanser
